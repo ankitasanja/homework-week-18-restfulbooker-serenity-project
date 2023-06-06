@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: com.restful.booker.bookinginfo.BookingCRUDTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 6, Skipped: 0, Time elapsed: 0.345 sec <<< FAILURE! - in com.restful.booker.bookinginfo.BookingCRUDTest
+test001(com.restful.booker.bookinginfo.BookingCRUDTest)  Time elapsed: 0.005 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.restful.booker.bookinginfo.BookingCRUDTest.test001(BookingCRUDTest.java:33)
+
+test002(com.restful.booker.bookinginfo.BookingCRUDTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.restful.booker.bookinginfo.BookingCRUDTest.test002(BookingCRUDTest.java:45)
+
+test003(com.restful.booker.bookinginfo.BookingCRUDTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.restful.booker.bookinginfo.BookingCRUDTest.test003(BookingCRUDTest.java:61)
+
+test004(com.restful.booker.bookinginfo.BookingCRUDTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.restful.booker.bookinginfo.BookingCRUDTest.test004(BookingCRUDTest.java:76)
+
+test005(com.restful.booker.bookinginfo.BookingCRUDTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.restful.booker.bookinginfo.BookingCRUDTest.test005(BookingCRUDTest.java:85)
+
+test006(com.restful.booker.bookinginfo.BookingCRUDTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.restful.booker.bookinginfo.BookingCRUDTest.test006(BookingCRUDTest.java:96)
+
